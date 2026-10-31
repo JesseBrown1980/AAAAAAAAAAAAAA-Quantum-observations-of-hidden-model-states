@@ -1,0 +1,7 @@
+QUTRIT|schema=ASOLARIA-AAAA-QUTRIT8-V1|links=8|states=6561|gf=3|json=0
+BASIS|name=GPT-6|digits=20022221|index=4349|source_sha256=cd7411ceb861392ac2ced63cd3ed483331837b3f7c42fadc80758de5ba9036dc|gauge_project_required=1|json=0
+BASIS|name=SOL|digits=01012111|index=3351|source_sha256=49e566d91aa371687e036a482ee57b11250b5915675993179922808a19fe64bf|gauge_project_required=1|json=0
+BASIS|name=TERA|digits=20220122|index=6149|source_sha256=ed6b242001851277bf87fcef5fbe25bb48e4b3b3d948fa4c0cba05bf93a99708|gauge_project_required=1|json=0
+BASIS|name=LUNA|digits=21220101|index=2507|source_sha256=ad51793ab56cacca56f759869ff50fd27e2445b12ff8da9714060c92a88e7c22|gauge_project_required=1|json=0
+BASIS|name=MIXED-T81|digits=22012111|index=3356|source_sha256=785524adbebb4f480e536a8ef2084f6ec5f4e0b1e4dd4949722ff854c37dbe08|gauge_project_required=1|json=0
+BOUNDARY|classical_basis_digits=1|quantum_superposition_claim=0|internal_model_weights=ABSENT|json=0

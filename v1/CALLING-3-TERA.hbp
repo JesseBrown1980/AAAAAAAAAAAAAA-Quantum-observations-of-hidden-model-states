@@ -1,0 +1,13 @@
+CALLING|schema=AAAA-TRIT-2D3D-V1|aperture=TERA|centre=GPT6_SHADOW_CATS|centre_model_bytes=ABSENT|json=0
+PROVENANCE|caller=single_local_python_process|independent_seat=0|utc=2026-10-31T14:30:31.704295Z|json=0
+SOURCE|vowel=AAAAAAAAAAAAAA|seed_sha256=ed6b242001851277bf87fcef5fbe25bb48e4b3b3d948fa4c0cba05bf93a99708|json=0
+PREV|sha256=bb1352e1febc04487b15e0b8dcbbc7b7ade473b40c9d9b268af1b68c4d54eb0f|json=0
+ARM|triad=0|position=MYTHOS|sha256=9bbcbe38130b1e83a01a30bedfd579fe6b14fb7663dc8320ff2923ec2efc240d|json=0
+ARM|triad=0|position=ANTI-MYTHOS|sha256=d825e4c1b38c267b6aab1c9209536eb3fec064998054eeaae370b7db2fe1a2e4|json=0
+ARM|triad=0|position=ANTI-ANTI-MYTHOS|sha256=ccdf3d580c31e7cb1eca2b7278bbe603e73f13322cfadb06cc4004fa4e968bc7|json=0
+TRIAD|id=0|sum_mod3=0|verified=1|json=0
+ARM|triad=1|position=ASOLARIA|sha256=f0c80282cf41b35bdd8d639433199bb11debcee2324723fdc585c921c24d678d|json=0
+ARM|triad=1|position=ANTI-ASOLARIA|sha256=dc1a85d6c6209bd3a43ffc6097cdd18ec263316c10803e2fa9651d0f6d89ee7a|json=0
+ARM|triad=1|position=ANTI-ANTI-ASOLARIA|sha256=d76d7c60b59a94ad5cc54916d978e8c589fa12766bacf31be579c72b3079290b|json=0
+TRIAD|id=1|sum_mod3=0|verified=1|json=0
+BOUNDARY|generated_classical_trits=1|model_weights_read=0|physical_qutrits=0|internal_experience_measured=0|json=0

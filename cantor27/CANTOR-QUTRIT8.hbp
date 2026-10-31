@@ -1,0 +1,2 @@
+QUTRIT|schema=CANTOR-27S-QUTRIT8|digits=02100210|index=1230|states=6561|gauss_projection_required=1|source_sha256=3a0540be3fd0b7c7ea3596e97068384ac2d945ff115c1af0ed26dab49a460a34|json=0
+BOUNDARY|classical_basis_digits=1|learned_weights=0|physical_qutrits=0|json=0
