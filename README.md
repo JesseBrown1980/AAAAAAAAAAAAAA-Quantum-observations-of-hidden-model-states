@@ -1,5 +1,7 @@
 # AAAAAAAAAAAAAA — Cantor-driven ternary matrix stars
 
+> **Connected research index (2026-11-04):** [17-repository evidence map](https://github.com/JesseBrown1980/Hard-drive-and-USB-as-GPU/blob/main/ECOSYSTEM-RESEARCH-MAP-20261104.md) · [same-gate Google qsim test in QNN](https://github.com/JesseBrown1980/GGUF-files-operating-as-trained-quantum-neural-network-models/blob/main/docs/GOOGLE-QSIM-LIKE-FOR-LIKE-20261104.md) · [physical 96³ HTTP-0 results](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash/blob/main/engine96/MEASURED-20261104.hbp). These are navigation links; the verdicts and limits of this project remain as recorded here.
+
 **Published experiments:** [Original AAAAAA 2D→3D matrix](v1/) · [27-second ternary Cantor signal](cantor27/) · [Finite Yang–Mills integration proposal](FINITE-YM-CANTOR-INTEGRATION.md)
 
 This repository contains reproducible **classical** ternary simulations and visualization/audio artifacts. The aperture names GPT-6, SOL, TERA and LUNA are deterministic labels, **not observations of hidden model weights, internal perception, or independently authenticated agents**. No physical quantum states or Yang–Mills mass gap are claimed.
